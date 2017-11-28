@@ -1,0 +1,1 @@
+{"request":"set_ip","text":{"machine":"ch_inna","ip":"178.93.128.242"}}
